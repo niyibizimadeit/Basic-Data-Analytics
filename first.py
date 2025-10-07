@@ -1,1 +1,0 @@
-print("First of october 2025, just push a little harder")
